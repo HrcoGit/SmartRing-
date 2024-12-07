@@ -1,0 +1,2 @@
+# SmartRing-
+Racunalno inžinjerstvo projekt
